@@ -20,14 +20,9 @@ img {
     object-fit: cover;
 }
 
-/* #next-to-last {
-    position: relative;
-    left: 315px;    
-} */
+
 
 #last {
     object-position: 10% 10%;
-    /* position: relative;
-    left: 315px; */
 }
 
